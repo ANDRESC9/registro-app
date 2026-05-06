@@ -106,7 +106,7 @@
   <main>
     <!-- Hero Section -->
     <div class="hero">
-      <h3>Bienvenido a RegistroApp</h3>
+      <h3>Bienvenido a Gestión QR Vendedores Informales</h3>
       <p>La plataforma más sencilla y eficiente para gestionar tus registros.</p>
       <a href="views/registro.php" class="btn-large grey darken-4 white-text">¡Regístrate Ahora!</a>
     </div>
@@ -116,7 +116,7 @@
       <div class="container">
         <h4 class="center-align">¿Cuál es el propósito?</h4>
         <p class="flow-text center-align">
-          RegistroApp busca ofrecer una solución tecnológica para gestionar registros de manera rápida y eficiente, sin complicaciones. Regístrate y accede a un sistema intuitivo y accesible desde cualquier dispositivo.
+          Gestión QR Vendedores Informales busca ofrecer una solución tecnológica para gestionar registros de manera rápida y eficiente, sin complicaciones. Regístrate y accede a un sistema intuitivo y accesible desde cualquier dispositivo.
         </p>
       </div>
     </section>

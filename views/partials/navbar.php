@@ -4,8 +4,7 @@ include_once(__DIR__ . '/../../config.php');
 
 <nav class="grey darken-4 white-text">
     <div class="nav-wrapper container">
-        <a href="http://localhost/web-test" class="brand-logo">RegistroApp
-            <!-- <img src="public/imagenes/logo.png" alt="Logo RegistroApp" style="height: 40px;"> -->
+        <a href=" <?= BASE_URL ?>" class="brand-logo">Gestión QR Vendedores Informales
         </a>
         <a href="#" data-target="mobile-menu" class="sidenav-trigger">
             <i class="material-icons">menu</i>
